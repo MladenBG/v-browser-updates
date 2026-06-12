@@ -1,0 +1,9 @@
+{
+  "_komentar_verzije": "Ovde upisuješ novu verziju. Kada je promeniš na višu (npr. sa 1.0.0 na 1.0.1), browser će ponuditi update.",
+  "version": "1.0.1",
+
+  "_komentar_servera": "!!! OVDE MENJAŠ SERVER ILI PROVAJDERA !!! Samo zameni ovaj link ispod linkom do tvog novog .exe instalera:",
+  "downloadUrl": "http://123.45.67.89/downloads/v-browser-setup.exe",
+
+  "changelog": "Opis novina: Dodat je Check for Updates sistem i poboljšane su performanse."
+}
